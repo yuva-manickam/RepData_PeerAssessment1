@@ -24,6 +24,7 @@ The data for this assignment can be downloaded from the course web
 site:
 
 * Dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) [52K]
+* 
 
 The variables included in this dataset are:
 
